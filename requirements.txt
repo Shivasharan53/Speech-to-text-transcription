@@ -4,3 +4,4 @@ pip install pydub pocketsphinx
 
 Run the main python script:python your_script_name.py
 
+Install FFmpeg separately for format conversion.
