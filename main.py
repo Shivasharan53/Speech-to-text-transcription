@@ -348,5 +348,5 @@ def main():
             print(f"An error occurred: {str(e)}")
             continue
 
-if _name_ == "_main_":
+if __name__ == "__main__":
     main()
