@@ -14,3 +14,4 @@ Record and save audio before transcription
  Test your microphone
 
 Offline transcription with CMU Sphinx
+
