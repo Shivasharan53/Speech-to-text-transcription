@@ -1,0 +1,8 @@
+pip install speechrecognition pyaudio pydub
+
+pip install pydub pocketsphinx
+
+Run the main python script:python your_script_name.py
+
+Transcripts can be saved to a text file:
+Auto-generated filename: transcript_YYYYMMDD_HHMMSS.txt
